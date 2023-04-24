@@ -5,6 +5,7 @@
 * @i: Ls of args to be prompted
 * @list: ls of args
 * Return: width.
+*from ethiopia to morocco
 */
 int get_width(const char *format, int *i, va_list list)
 {
