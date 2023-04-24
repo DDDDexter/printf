@@ -3,6 +3,7 @@
 * is_printable - Eval if a char is printable
 * @c: Char to be eval
 * Return: 1 if c is printable, 0 otherwise
+* from ethiopia to morocco
 */
 int is_printable(char c)
 {
